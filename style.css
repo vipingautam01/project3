@@ -1,0 +1,19 @@
+
+.first a,.first h1, h1{
+    text-decoration: underline;
+}
+.first{
+    border: 2px solid black;
+    padding: 10px;
+}
+ a{
+    color: black;
+ }
+ .good{
+        position: absolute;
+        left: 0px;
+ }
+.main{
+    margin: 10px;
+    font-family: sans-serif,  'Inter';
+}
